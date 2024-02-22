@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmilPhOniX
+- 👀 I’m interested in Gaming and Vr technologies  
+- 🌱 I’m currently learning to code in every language and specificly in C++ 
+- 📫 You can contact me on my social medias
+- ⚡ Fun fact: I'm hungry.
