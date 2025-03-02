@@ -2,10 +2,10 @@
   👋 Hi, I’m EmilPhOniX<br><br>
   👀 I’m interested in web development, game development, and VR technologies.<br><br>
   🔭 I’m currently working on <a href="https://emilienderobert.fr">My Portfolio</a><br><br>
-  🌱 I’m currently learning **JavaScript and C#**.<br><br>
+  🌱 I’m currently learning JavaScript and C#.<br><br>
   🎙️ I'm a developer, caster, and streamer — <a href="https://www.youtube.com/@bdeascii43">Check my Podcast</a><br><br>
-  📫 **You can contact me on my social media.**<br><br>
-  ⚡ **Fun fact:** I'm hungry.
+  📫 You can contact me on my social media.<br><br>
+  ⚡ Fun fact: I'm hungry.
 </h2>
 
 ###
