@@ -1,4 +1,12 @@
-<h2 align="left">👋 Hi, I’m EmilPhOniX<br><br>👀 I’m interested in web development, game development, and VR technologies.<br><br>🔭 I’m currently working on [My Portfolio :](emilienderobert.fr)<br><br>🌱 I’m currently learning **I’m currently learning JavaScript and C#.**<br><br>- 🎙️ I'm developpeur, caster and streamer [Check my Podcast :](https://www.youtube.com/@bdeascii43)<br><br>- 📫 **You can contact me on my social media.**<br><br>- ⚡ Fun fact **Fun fact: I'm hungry.**</h2>
+<h2 align="left">
+  👋 Hi, I’m EmilPhOniX<br><br>
+  👀 I’m interested in web development, game development, and VR technologies.<br><br>
+  🔭 I’m currently working on <a href="https://emilienderobert.fr">My Portfolio</a><br><br>
+  🌱 I’m currently learning **JavaScript and C#**.<br><br>
+  🎙️ I'm a developer, caster, and streamer — <a href="https://www.youtube.com/@bdeascii43">Check my Podcast</a><br><br>
+  📫 **You can contact me on my social media.**<br><br>
+  ⚡ **Fun fact:** I'm hungry.
+</h2>
 
 ###
 
@@ -62,11 +70,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilphonix&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/emilphonix/emilphonix/output/snake.svg" alt="Snake animation" />
-
-###
