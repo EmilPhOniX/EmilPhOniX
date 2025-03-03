@@ -71,4 +71,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sj5jqtqqxncfi63vigxnattrzm&cover_image=false&theme=default&show_offline=false&background_color=3672d3&interchange=true&bar_color=5d1ed2)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sj5jqtqqxncfi63vigxnattrzm&cover_image=false&theme=default&show_offline=false&background_color=3672d3&interchange=true&bar_color=5d1ed2&bar_color_cover=true" alt="Spotify GitHub Profile" style="width: 100%; height: auto;">
