@@ -60,9 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilphonix&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilphonix&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="flex: 1;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="flex: 1;" />
+  </div>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sj5jqtqqxncfi63vigxnattrzm&cover_image=false&theme=default&show_offline=false&background_color=3672d3&interchange=true&bar_color=5d1ed2&bar_color_cover=true" alt="Spotify GitHub Profile" style="height: auto;" />
 </div>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sj5jqtqqxncfi63vigxnattrzm&cover_image=false&theme=default&show_offline=false&background_color=3672d3&interchange=true&bar_color=5d1ed2&bar_color_cover=true" alt="Spotify GitHub Profile" style="display: block; margin: auto; max-width: 100%; height: auto;">
