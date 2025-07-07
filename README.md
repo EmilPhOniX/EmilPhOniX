@@ -99,5 +99,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilphonix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sj5jqtqqxncfi63vigxnattrzm&cover_image=false&theme=default&show_offline=false&background_color=3672d3&interchange=true&bar_color=5d1ed2&bar_color_cover=true" alt="Spotify GitHub Profile" style="height: auto;" />
 </div>
